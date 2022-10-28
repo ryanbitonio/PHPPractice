@@ -1,6 +1,5 @@
 <?php
 
-
 $integerCasting = "25";
 // Result: string(2) "25"
 var_dump($integerCasting);
